@@ -1,0 +1,15 @@
+[sender]
+name_from = =?UTF-8?B?0KjQutC+0LvQsCDihJYxMjEw?=
+email_from = 
+password = 
+server = 
+port = 
+
+[letter]
+text = *random*
+subject = =?UTF-8?B?0KEg0JTQvdGR0Lwg0YDQvtC20LTQtdC90LjRjyE=?=
+template = index.html
+
+[sent]
+donepeople = , aksenovn@s1210.ru
+
