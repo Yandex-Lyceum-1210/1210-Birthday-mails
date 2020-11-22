@@ -1,0 +1,1 @@
+Start C:\Users\iakse\PycharmProjects\1210_Birthday_mails\exe\files\start.exe
